@@ -1,5 +1,5 @@
-CREATE DATABASE adith13;
-USE adith13;
+CREATE DATABASE adith33;
+USE adith33;
 	CREATE TABLE Department (
     DepartmentID INT PRIMARY KEY,
     DepartmentName VARCHAR(50)
